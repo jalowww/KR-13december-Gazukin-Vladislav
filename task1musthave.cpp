@@ -10,4 +10,5 @@ int main() {
     cout << a % b << " ";
     return 0; 
 
+
 }
